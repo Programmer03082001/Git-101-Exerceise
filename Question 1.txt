@@ -1,2 +1,0 @@
-How do you see the files changed within each commit from git log?
-Ans: You can use the command git whatchanged --stat to get a list of files that changed in each commit (along with the commit message).
